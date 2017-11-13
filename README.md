@@ -9,4 +9,6 @@ Blame! Framework for Quality Assurance
 - Covergae must be included
 - Style errors must be checked.
 - A report must be generated.
-- The code must not be project agnostic.
+- The code must be project agnostic.
+- Language agnostic.
+- Must evaluate the precense of a git/mercurial/svn
